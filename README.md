@@ -12,12 +12,13 @@ Project Objectives:
 • To create a user-friendly website that allows users to easily browse and 
 search for events by type (clubs, cafes, concerts), location, date, and 
 other relevant filters on a single tab.
-• To suggest a perfect place using recommendations powered by AI.
+<br>
+• To suggest a perfect place using recommendations powered by AI.<br>
 • To enable event organizers to submit their events for inclusion in the 
-listings.
+listings.<br>
 • To provide detailed event information, including event name, date, time, 
-venue, and brief descriptions.
+venue, and brief descriptions.<br>
 • To ensure a responsive and visually appealing design for a seamless user 
-experience on various devices.
+experience on various devices.<br>
 • To implement interactivity for features like event filtering, event details, 
 and user event submissions
